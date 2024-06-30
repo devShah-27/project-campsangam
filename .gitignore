@@ -80,7 +80,6 @@ static/
 
 # MongoDB
 *.lock
-*.json
 dump/
 
 # Firebase
